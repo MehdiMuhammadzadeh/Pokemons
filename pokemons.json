@@ -1,0 +1,40 @@
+[
+  {
+    "name": "Bulbasaur",
+    "image":
+      "https://unpkg.com/pokeapi-sprites@2.0.2/sprites/pokemon/other/dream-world/1.svg",
+    "type": "grass"
+  },
+  {
+    "name": "Ivysaur",
+    "image":
+      "https://unpkg.com/pokeapi-sprites@2.0.2/sprites/pokemon/other/dream-world/2.svg",
+    "type": "grass"
+  },
+  {
+    "name": "Venusaur",
+    "image":
+      "https://unpkg.com/pokeapi-sprites@2.0.2/sprites/pokemon/other/dream-world/3.svg",
+    "type": "grass"
+  },
+  {
+    "name": "Charmander",
+    "image":
+      "https://unpkg.com/pokeapi-sprites@2.0.2/sprites/pokemon/other/dream-world/4.svg",
+    "type": "fire"
+  },
+  {
+    "name": "Charmeleon",
+    "image":
+      "https://unpkg.com/pokeapi-sprites@2.0.2/sprites/pokemon/other/dream-world/5.svg",
+    "type": "fire"
+  },
+  {
+    "name": "Charizard",
+    "image":
+      "https://unpkg.com/pokeapi-sprites@2.0.2/sprites/pokemon/other/dream-world/6.svg",
+    "type": "fire"
+  }
+]
+
+
